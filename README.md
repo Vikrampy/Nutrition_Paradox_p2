@@ -1,4 +1,4 @@
-# Nutrition_Paradox_p2
+# Nutrition_Paradox: A Global View on Obesity and Malnutrition
 
 ## Problem Statement
 
